@@ -147,17 +147,10 @@ projects:
     title: Recent Projects
     intro: 
     assignments:
-      - title: Developed trust center for clients to request and view security and compliance documentation.
-      - title: Rebuilt corporate office network and WiFi from ground up.
-      - title: Built multi-cloud environment with Terraform.
-      - title: Architected and implemented secure auto-scaling Azure cloud-native application utilizing Kubernetes, MS SQL, CosmosDB and Redis.
-      - title: Built CI/CD automation pipelines from the ground up for both on-prem and cloud environments
-      - title: Centralized logging with ELK stack and proactive intrusion alerts with Splunk.
-      - title: Implemented Azure ARC for monitoring and managing on-prem infrastructure in the cloud.
-      - title: Leveraged Linux expertise to push forward the organizations technological abilities while also saving money utilizing open source software.
-      - title: Migrated old Blade/SAN environment to hyper-converged multi-node infrastructure with minimal downtime.
-      - title: Implemented MFA conditional access & additional security measures to protect company data and reduce data breach risk.
-      - title: Implemented Intune / Autopilot to streamline IT Operations and enhance data security
+      - title: Architected and implemented secure auto-scaling Azure cloud-native application utilizing Kubernetes, PostgreSQL, ServiceBus, SignalR with Zoom integration for real-time communications.
+      - title: Built CI/CD automation pipelines for greenfield applications using Azure DevOps with Infrastructure as Code (Terraform) and Helm charts for Kubernetes deployments.
+      - title: Built data security and governance frameworks to ensure compliance with FTC Safeguards using NIST
+      - title: Created organization wide Data Governance policies and procedures.
 
 skills:
     title: Skills &amp; Proficiency
