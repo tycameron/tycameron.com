@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: /assets/ty-cameron-resume-2025.pdf 
+    pdf: /assets/ty-cameron-resume-2025.5.pdf 
 
     languages:
       title: Languages
@@ -66,8 +66,32 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Sr DevOps Enginner
+        time: 2025 - present
+        company: Onset Financial, Draper, UT
+        details: |
+          - Architect and implement scalable and secure cloud infrastructure solutions
+          - Develop and maintain CI/CD pipelines for automated application deployment
+          - Collaborate with development and operations teams to ensure seamless integration and delivery
+          - Monitor and optimize system performance and reliability
+          - Implement security best practices and compliance measures across cloud environments
+          - Lead incident response and troubleshooting efforts for cloud infrastructure issues
+          - Mentor junior DevOps engineers and promote knowledge sharing within the team
+          - Drive continuous improvement initiatives to enhance DevOps processes and tools
+          - Build data security and governance frameworks to ensure compliance with industry standards such as NIST, FTC Safeguards, PCI DSS, GDPR, and ISO 27001
+          - Conduct regular security assessments and audits to identify vulnerabilities and implement mitigation strategies including penetration testing and vulnerability scanning
+      - role: Sr Principal Engineer DevOps (Top Secret Clearance)
+        time: 2025 - 2025
+        company: Northrup Grumman, Roy, UT
+        details: |
+          - Design, implement, and manage scalable DevOps solutions for defense applications
+          - Develop and maintain CI/CD pipelines for automated deployment and integration
+          - Collaborate with cross-functional teams to ensure seamless delivery of software solutions
+          - Monitor and optimize system performance and reliability
+          - Implement security best practices and compliance measures for defense applications
+          - Lead incident response and troubleshooting efforts for DevOps-related issues
       - role: Systems & Platform Architect / Senior DevOps Engineer
-        time: 2023 - Present
+        time: 2023 - 2025
         company: Christopherson Business Travel, Salt Lake City, UT
         details: |
           - Architect and implement IT infrastructure (on-prem & cloud)
