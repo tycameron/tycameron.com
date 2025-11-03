@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Ty Cameron
-    tagline: Visionary System & Platform Architect | DevOps & SecOps Strategist | Driving Innovation, Scalability, and Secure Technology Leadership
+    tagline: Principal Architect | Cloud, DevOps & Security
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -210,4 +210,4 @@ skills:
       - name: Security & Compliance
         level: 91%
 
-footer: © 2025 Ty Cameron. All rights reserved.
+footer: © 202 Ty Cameron. All rights reserved.
