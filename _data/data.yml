@@ -9,9 +9,8 @@ sidebar:
 
     # Profile information
     name: Ty Cameron
-    tagline: |
-      Principal Architect
-      Cloud, DevOps & Security
+    tagline: Principal Architect
+    subtagline: Cloud, DevOps & Security
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
